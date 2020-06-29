@@ -143,6 +143,10 @@ h1,h2,h3,h4,h5,h6{
 .p-2{padding: 2rem;}
 .p-3{padding: 3rem;}
 
+.l-heading{
+    font-size: 3rem;
+}
+
 /* nav */
 #main-nav{
     background: #fff;
